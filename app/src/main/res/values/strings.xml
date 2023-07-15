@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IMDB</string>
+    <string name="title_activity_film_details">FilmDetails</string>
+    <string name="title_activity_movie_details">movieDetails</string>
+    <string name="title_activity_list">List</string>
+    <string name="title_activity_film_listem">FilmListem</string>
+</resources>
